@@ -168,6 +168,10 @@ color: var(--minor-txt-cl);
     color: var(--secondary-txt-cl);
  }
 
+ .address {
+   font-style: normal;
+ }
+
  .address-text {
     color: var(--secondary-txt-cl);
  }
